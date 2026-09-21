@@ -1,0 +1,6 @@
+{
+  "name": "Databricks DataOps Autonomous Agent",
+  "description": "Autonomous Data Engineering & Operations Agent for Databricks Lakehouse, PySpark, Lakeflow, DLT, and Unity Catalog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
